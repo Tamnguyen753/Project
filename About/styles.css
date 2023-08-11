@@ -1,0 +1,35 @@
+*{
+  background: transparent;
+  border: 0 none;
+  font-weight: inherit;
+  margin: 0 auto;
+  padding: 0 ;
+  border: 0;
+  outline: 0;
+  vertical-align: top;
+  box-sizing: border-box;
+  
+
+    color: #333;
+    font-family: 'Open Sans',sans-serif;  
+    -webkit-font-smoothing: antialiased;
+}
+
+.fa-solid fa-house{
+    color: #333;
+  font-size: 24px;
+}
+
+.vingon{
+  display:flex;
+  justify-content:center;
+  align-items:center
+
+}
+
+.body{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+
