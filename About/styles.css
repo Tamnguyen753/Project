@@ -10,7 +10,7 @@
   box-sizing: border-box;
   
 
-    color: #333;
+    color: black;
     font-family: 'Open Sans',sans-serif;  
     -webkit-font-smoothing: antialiased;
 }
@@ -24,12 +24,31 @@
   display:flex;
   justify-content:center;
   align-items:center
-
 }
 
-.body{
-  padding-left: 70px;
-  padding-right: 70px;
+.mainbody{
+  padding-left: 130px;
+  padding-right: 130px;
+}
+.Gioithieu{
+  display: flex;
+  padding:0px;
+  align-items :flex-start;
+  justify-content :flex-start;
+  padding:0px;
+  width:100%;
+  margin:0px;
+  border:1px solid 
+  
 }
 
+.bx bx-home{
+  max-width: 20px;
+  max-height: 20px;
+  display: block
+}
+
+.Gioithieu1{
+ font-size: small;
+}
 
