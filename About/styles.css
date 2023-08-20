@@ -15,40 +15,35 @@
     -webkit-font-smoothing: antialiased;
 }
 
-.fa-solid fa-house{
-    color: #333;
-  font-size: 24px;
-}
-
-.vingon{
-  display:flex;
-  justify-content:center;
-  align-items:center
-}
-
-.mainbody{
-  padding-left: 130px;
-  padding-right: 130px;
-}
-.Gioithieu{
-  display: flex;
-  padding:0px;
-  align-items :flex-start;
-  justify-content :flex-start;
-  padding:0px;
-  width:100%;
-  margin:0px;
-  border:1px solid 
   
+.mainbody{
+  padding-left: 120px;
+  padding-right: 120px;
+  font-size: 16px;
+  line-height: 2
 }
-
 .bx bx-home{
   max-width: 20px;
   max-height: 20px;
   display: block
 }
+.img{
+  max-width: 600px;
+  height: auto;
+}
+.nguoi{
+  line-height: 3
 
-.Gioithieu1{
- font-size: small;
+}
+.ulanh{
+  line-height: 3
+}
+.quytrinh{
+  font-size: 16px;
 }
 
+.ytb{
+  display:flex;
+  justify-content:center;
+  align-items:center
+}
